@@ -1,0 +1,5 @@
+  <!-- IMG SEO
+  <meta itemprop="image" content="http://devmattb.com/img/profilepic.jpg">
+  <meta property="og:image" content="http://devmattb.com/img/profilepic.jpg">
+  <meta name="twitter:image" content="http://devmattb.com/img/profilepic.jpg">
+  -->

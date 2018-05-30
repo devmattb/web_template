@@ -1,0 +1,24 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  /* Fixes footer to bottom of page (1): */
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+/* Fixes footer to bottom of page (2):*/
+main {
+  flex: 1 0 auto;
+}
+
+/* PRELOADER CSS */
+#preloader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+    background: #fff;
+}
